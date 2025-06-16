@@ -30,18 +30,6 @@ git clone <repository-url>
 cd dimension-capture
 
 
-2. Install required packages:
-bash
-pip install -r requirements.txt
-
-
-## 🚀 Usage
-
-### Using Google Colab (Recommended)
-1. Open the dimension_capture.ipynb notebook in Google Colab
-2. Run cells in order from top to bottom
-3. Upload your image when prompted
-4. View results in the displayed output
 
 ### Reference Object Specifications
 - Type: Standard Credit/Debit Card
